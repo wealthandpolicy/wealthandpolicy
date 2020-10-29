@@ -42,6 +42,47 @@ h2 {
   font-size: 25px;
   margin: 5px 0;
 }
+.dTitle {
+  color: #aa0000;
+}
+.dAuthors {
+  overflow: hidden;
+  font-size: 22px;
+  margin: 5px 0;
+}
+.dWPno {
+  overflow: hidden;
+  font-size: 22px;
+  margin: 5px 0;
+}
+.dDate {
+  overflow: hidden;
+  font-size: 18px;
+  margin: 5px 0;
+}
+.dSocial {
+  overflow: hidden;
+  font-size: 18px;
+  margin: 5px 0;
+}
+.dAbstract {
+  padding-top: 5px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+.dSub {
+  font-size: 20px;
+}
+.dAbstract {
+  padding-top: 5px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
+.dAbstract {
+  padding-top: 5px;
+  padding-bottom: 15px;
+  font-size: 16px;
+}
 .ucllogo {
   height: 30pt;
   vertical-align: bottom;
